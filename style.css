@@ -1,0 +1,57 @@
+/*---------------
+ BODY
+---------------*/
+body {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-size: 1.4rem;
+  margin: auto;
+  max-width: 869px;
+  padding-top: 20px;
+}
+
+header {
+  padding: 0 80px;
+}
+
+div.wrap {
+  text-align: center;
+}
+
+h1, h2 {
+  color: #1f3864;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 2.1rem;
+  margin-top: 0;
+  text-align: right;
+}
+
+footer h2 {
+  font-size: 1.8rem;
+}
+
+main p {
+  text-align: left;
+}
+
+a,
+a:visited {
+  color: #1f3864;
+}
+
+a:focus,
+a:hover {
+  color: #526b97;
+}
+
+
