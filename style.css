@@ -3,14 +3,14 @@
 ---------------*/
 body {
   font-family: Tahoma, Verdana, Segoe, sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.1rem;
   margin: auto;
-  max-width: 869px;
-  padding-top: 10px;
+  max-width: 850px;
+  padding-top: 0px;
 }
 
 header {
-  padding: 0 80px;
+  padding: 0 120px;
 }
 
 div.wrap {
@@ -23,7 +23,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 2.8rem;
+  font-size: 2.3rem;
 }
 
 header h1 {
@@ -31,13 +31,13 @@ header h1 {
 }
 
 h2 {
-  font-size: 2.1rem;
+  font-size: 1.9rem;
   margin-top: 0;
   text-align: right;
 }
 
 footer h2 {
-  font-size: 1.8rem;
+  font-size: 1.4rem;
 }
 
 main p {
