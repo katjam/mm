@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  padding: 0 120px;
+  padding: 0;
 }
 
 div.wrap {
@@ -33,11 +33,11 @@ header h1 {
 h2 {
   font-size: 1.9rem;
   margin-top: 0;
-  text-align: right;
 }
 
 footer h2 {
   font-size: 1.4rem;
+  text-align: right;
 }
 
 main p {
